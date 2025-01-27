@@ -2,7 +2,7 @@ import React from 'react'
 
 function pages() {
   return (
-    <div>pages</div>
+    <div>pages ae for teacher lisr</div>
   )
 }
 
